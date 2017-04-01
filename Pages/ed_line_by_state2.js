@@ -47,7 +47,7 @@ var make_line_for_state = function(state) {
           .attr("in", "SourceGraphic");
         
     
-    var path_to_data = "/d3_testing/data_by_state/"+state+"_small_all_eds.csv"
+    var path_to_data = "/data_by_state/"+state+"_small_all_eds.csv"
     d3.csv(path_to_data, function(error, data) {
     if (error) throw error;
     console.log(state);
