@@ -149,5 +149,5 @@ var make_inds_lines = function (state) {
         return d;
     }
     
-    d3.csv("/d3_testing/Pages/industry_data.csv", type, render);
+    d3.csv("/style-testing/Pages/industry_data.csv", type, render);
     }
