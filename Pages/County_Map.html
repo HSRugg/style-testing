@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://d3js.org/topojson.v2.min.js"></script>
+<!--    <script src="d3.legend.js"></script>-->
+    <style>
+    body {
+        font-size: 30px;
+/*        background-image: url("silver_cloth.jpg");*/
+        background-color: antiquewhite;
+        }
+        
+    .counties {
+      fill: none;
+    }
+
+    .states {
+      fill: none;
+      stroke: #fff;
+      stroke-linejoin: round;
+    }
+    .legend rect {
+      fill:white;
+      stroke:#333;
+      opacity:0.8;
+    }
+    #container {
+        width: 1000px;
+        height: 1000px;
+        }
+    #plot_container{
+        background-image: url("transparent_glass.png");
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        position: relative;
+        float: left;
+        padding: initial;
+        margin-top: 5vh;
+        margin-bottom: 5vh;
+        margin-left: 2px;
+        margin-right: 3px;
+        width: 64vw;
+        height: 90vh;
+        -moz-box-shadow:    inset 0 0 30px #000000;
+       -webkit-box-shadow: inset 0 0 30px #000000;
+       box-shadow:         inset 0 0 30px #000000;
+        border-radius: 25px;
+        
+        }
+        .shadow{
+           -moz-box-shadow:    inset 0 0 30px #000000;
+           -webkit-box-shadow: inset 0 0 30px #000000;
+           box-shadow:         inset 0 0 30px #000000;
+        }
+        svg{
+            z-index: 30;
+        }
+        .lables{
+            opacity: .91;
+            -webkit-box-shadow: 0 8px 6px -6px black;
+            -moz-box-shadow: 0 8px 6px -6px black;
+          box-shadow: 0 12px 6px -6px black;
+            background-color: beige;
+            height: 17vh;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            width: 16vw;
+            position: relative;
+            border-radius: 25px;
+            text-align: center;
+            vertical-align: middle;
+            line-height: 17vh; 
+        }
+        
+        .left_labels{
+            padding-top: 1.8%;
+            padding-left: 5px;
+            padding-right: 5px;
+            float: left;
+            
+        }
+        .right_labels{
+            padding-top: 1.8%;
+            padding-left: 5px;
+            padding-right: 5px;
+            float: left;
+        }
+        #plot_title{
+            text-align: center;
+            padding-top: 45px;
+            
+        }
+        
+    </style>
+    
+</head>
+<body height="100%" width="100%">
+    <div class="left_labels">
+        <div class="lables shadow" style="background-color: #1f77b4;">Manufacturing</div>
+        <div class="lables shadow" style="background-color: #aec7e8; line-height: 5.4vh;">Accommodation <br>and<br> Food Sevices</div>
+        <div class="lables shadow" style="background-color: #ff7f0e; line-height: 4.5vh;"><br>Educational <br>Sevices</div>
+        <div class="lables shadow" style="background-color: #ff9896;">Health Care</div>
+        <div class="lables shadow" style="background-color: #2ca02c;">Retail Trade</div>
+    </div>
+    
+    <div id="plot_container">
+        <div id="plot_title">LARGEST INDUSTRY EMPLOYMENT PER COUNTY 2012<button>PLAY</button></div>
+    </div>
+    
+    <div class="right_labels">
+        <div class="lables shadow" style="background-color: #98df8a;">Agriculture</div>
+        <div class="lables shadow" style="background-color: #d62728; line-height: 4.5vh;"><br>Arts, Entertainment <br> and Recreation</div>
+        <div class="lables shadow" style="background-color: #ffbb78">Construction</div>
+        <div class="lables shadow" style="background-color: #9467bd; line-height: 4.5vh;"><br>Mining, Oil & <br> Gas Extraction</div>
+        <div class="lables shadow" style="background-color: #c5b0d5; line-height: 4.5vh;"> <br>Public<br> Administration</div>
+    </div>
+    
+<!--
+    
+    <script src="indesty_rank_bars.js"></script>
+    <script src="industry_line_by_state.js"></script>
+-->
+<script src="./new_maps.js"></script>
+<!--<script src="./map_of_states.js"></script>-->
+
+</body>
+</html>

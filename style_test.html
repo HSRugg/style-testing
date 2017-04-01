@@ -1,0 +1,245 @@
+<html>
+
+<head>
+<style>
+    body{
+        background-color: antiquewhite;
+    }
+    .axis {
+      fill: #333;
+      stroke: #333;
+      opacity: .9;
+    } 
+    .legend rect {
+          fill:white;
+          stroke:#333;
+          opacity:0.8;
+    }
+.article_box
+{ 
+    background-color: bisque;
+    text-align: center;
+    line-height: 2;
+    width: 100vw;
+    height: 500;
+	position: relative;
+	padding: 00px;
+	margin: 0 auto;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.2), inset 0 0 50px rgba(0, 0, 0, 0.1);
+}
+    #article_box1{
+        margin-top: 120px;
+    }
+    .container{
+        font-size: 32;
+        padding: 29px;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: 2;
+    }
+    .box_title{
+        font-size: 48;
+        background-color: skyblue;
+        height: 15%;
+        line-height: 1.5;
+    }
+    .plot_title{
+        font-size: 20;
+        background-color: skyblue;
+        height: 15%;
+        line-height: 3;
+        -moz-box-shadow:    inset 0 0 20px #333;
+       -webkit-box-shadow: inset 0 0 20px #333;
+       box-shadow:         inset 0 0 20px #333;
+        border-top-right-radius: 25px;
+        border-top-left-radius: 25px;
+
+    }
+    .main_box{
+        margin-top: 15px;
+        background-color: bisque;
+        width: 100%;
+        height: 420;
+    }
+    .plot_box{
+        display: inline-block;
+        background-color: ivory;
+        width: 44%;
+        height: 400;
+        margin-left: 2%;
+        margin-right: 2%;
+        -moz-box-shadow:    inset 0 0 20px #333;
+       -webkit-box-shadow: inset 0 0 20px #333;
+       box-shadow:         inset 0 0 20px #333;
+        border-radius: 25px;
+    }
+    .plot_box:hover{
+        background-color: aqua;
+    }
+    img{
+        padding-top: 20px;
+    }
+    
+    </style>
+
+    <title>Census Data Explorer</title>
+<!--d3 utlitys-->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://d3js.org/topojson.v2.min.js"></script>
+<!--
+    <script src="/Census-Data-Explorer/d3.legend.js"></script>
+    
+    
+    <script src = "/Census-Data-Explorer/map_with_counties.js"></script>
+    
+-->
+
+<!--    map-link page-->
+<script src = "/d3_testing/Pages/home_page_map.js"></script>
+    
+<!--    Gender diff state plots-->
+    <script src="/d3_testing/Pages/genderPie2.js"></script>
+    <script src='/d3_testing/Pages/ed_line_by_state2.js'></script>
+<!--    <script src="/d3_testing/Pages/change_title.js"></script>-->
+    
+<!--    industy state plots-->
+    <script src= "/d3_testing/Pages/industry_lines.js"></script>
+    <script src= "/d3_testing/Pages/indesty_rank_bars.js"></script>
+    
+    
+    
+    <link rel="stylesheet" href="../censues_page/Census-Data-Explorer/Census_Page.css">
+    
+
+    
+<!--    make links to articales/plots-->
+    <script>
+    var clear_disply = function () {
+        document.getElementById("display").style.display = 'none';
+    }
+    var make_us_totals = function () {
+        make_inds_lines("All");
+        make_inds_bars("All");
+        
+    }
+    var make_county_map = function () {
+        var main_frame = document.createElement("iframe");
+            main_frame.setAttribute("id","main_frame")
+            main_frame.setAttribute("width","100%")
+            main_frame.setAttribute("height","100%");
+            main_frame.style.paddingTop = 60;
+        document.body.appendChild(main_frame);
+            main_frame.src = "http://localhost:8880/d3_testing/Pages/County_Map.html";
+    }
+    var make_state_map = function (link_to) {
+        
+        var main_frame = document.createElement("center");
+        main_frame.setAttribute("id", "main_frame");
+        main_frame.style.paddingTop = 60;
+        document.body.appendChild(main_frame);
+        
+        var heading = document.createElement("h2");
+        heading.style.paddingTop = 60;
+        heading.setAttribute("id", "heading");
+        
+        if (link_to == "gender") {
+        heading.innerHTML = "Click A State To Explore Gender Wage Diffrances ";
+        } else if (link_to == "industry"){
+            heading.innerHTML = "Click A State To Explore Diffrances In Wage And Emplyment by Industry ";
+            
+        }
+        main_frame.appendChild(heading);
+        
+        make_home_map(link_to);
+    }
+    </script>
+</head>
+<body>
+<div class="container">
+  <a href="/Census-Data-Explorer/">Home</a>
+<!--  <a href="#news">Maps</a>-->
+  <div class="dropdown">
+    <button class="dropbtn" onclick="dropDownFunction()">USA Industy Hot Spots</button>
+    <div class="dropdown-content" id="myDropdown">
+      <a onClick="make_home_map('new...');">other thing</a>
+      <a onClick="make_inds_map_with_counties('Agriculture')">Agriculture</a>
+      <a onClick="make_inds_map_with_counties('Construction')">Construction</a>
+      <a onClick="make_inds_map_with_counties('Mining')">Mining</a>
+      
+    </div> 
+  </div> 
+  <div class="dropdown">
+    <button class="dropbtn" onclick="clear_disply()">More To Come</button>
+    <div class="dropdown-content" id="myDropdown">
+      <a href="/d3_testing/inds_gender_line_plot_ca.html">other thing</a>
+      <a onClick="make_inds_map_with_counties('Agriculture')">Agriculture</a>
+      <a onClick="make_inds_map_with_counties('Construction')">Construction</a>
+      <a onClick="make_inds_map_with_counties('Mining')">Mining</a>
+      
+    </div> 
+  </div> 
+  
+</div>
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function dropDownFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+    var myDropdown = document.getElementById("myDropdown");
+      if (myDropdown.classList.contains('show')) {
+        myDropdown.classList.remove('show');
+      }
+  }
+}
+</script>
+    <div id="display">
+    <div class ="article_box" id="article_box1">
+        <center><div class="box_title">National Trends Over Time</div></center>
+        <div class="main_box">
+            <div class="plot_box" onclick="clear_disply(), make_us_totals()">
+                <div class="plot_title" >Charts, Plots And Graphs</div>
+                <div class="plot"><img src="Plot_and_bar.png" width="500" height="300"></div>
+            </div>
+            <div class="plot_box" onclick="clear_disply(), make_county_map()">
+                <div class="plot_title">Dominate Indusrty By County</div>
+                <div class="plot"><img src="county_map.png" width="500" height="300"></div>
+            </div>
+        </div>  
+    </div>
+    <div class ="article_box">
+        <center><div class="box_title">Information By States</div></center>
+        <div class="main_box">
+            <div class="plot_box" onclick="clear_disply(), make_state_map('gender')">
+                <div class="plot_title">Gender Wage Diffrances</div>
+                <div class="plot"><img src="Map_blue.png" width="500" height="300"></div>
+            </div>
+            <div class="plot_box" onclick="clear_disply(), make_state_map('industry')">
+                <div class="plot_title">Industry Employment and Pay</div>
+                <div class="plot"><img src="Map_red.png" width="500" height="300"></div>
+            </div>
+        </div>      
+    </div>
+    <div class ="article_box">
+        <center><div class="box_title">Next To Come</div></center>
+        <div class="main_box">
+            <div class="plot_box">
+                <div class="plot_title">Coming Soon</div>
+                <div class="plot"><img src="county_map.png" width="500" height="300"></div>
+            </div>
+            <div class="plot_box">
+                <div class="plot_title">Coming Soon</div>
+                <div class="plot"><img src="line_and_pie.png" width="500" height="300"></div>
+            </div>
+        </div>    
+    </div>
+    </div>
+    
+</body>
+</html>
+
+
