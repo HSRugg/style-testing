@@ -27,7 +27,7 @@ var make_inds_bars = function(state) {
     plot_two.appendChild(rank_heading);
 //    d3.select("svg").remove();
     
-    var path_to_data = "/d3_testing/Pages/industry_data.csv";
+    var path_to_data = "./Pages/industry_data.csv";
     d3.csv(path_to_data, function(data) {
         console.log(data[0])
          // color scale

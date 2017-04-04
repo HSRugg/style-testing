@@ -169,7 +169,7 @@ var make_inds_lines = function (state) {
         return d;
     }
     
-    d3.csv("/d3_testing/Pages/industry_data.csv", type, render);
+    d3.csv("./Pages/industry_data.csv", type, render);
     
 
 
@@ -194,9 +194,6 @@ var change_data = function () {
     yScale = d3.scaleLinear().range([innerHeight, 0])
     .domain([0,emp_max*1.1]);
 
-    //    console.log("test");
-    //    d3.selectAll("path").remove();
-    //d3.csv("/d3_testing/Pages/industry_data.csv", type, render);
 
     var line2 = d3.line()
     .x(function(d) { return xScale(d["year"].getFullYear()); })
