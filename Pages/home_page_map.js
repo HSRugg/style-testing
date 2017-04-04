@@ -58,7 +58,7 @@ var make_home_map = function (link_to) {
             // Load in my states data
 
     state_json = "https://gist.githubusercontent.com/michellechandra/0b2ce4923dc9b5809922/raw/a476b9098ba0244718b496697c5b350460d32f99/us-states.json"
-    d3.csv("Pages/US_State_pop_00-09.csv", function(data) {
+    d3.csv("/d3_testing/Pages/US_State_pop_00-09.csv", function(data) {
         // get max for scaler
         
         var max = d3.max(data, function(d) { return +d.incress_2001;} );

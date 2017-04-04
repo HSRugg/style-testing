@@ -1,4 +1,4 @@
-var path_to_folder = "/style-testing/data_by_state/"
+var path_to_folder = "/d3_testing/data_by_state/"
 console.log('im here two')
 var make_pie_for_state = function(state) {
     
@@ -113,7 +113,7 @@ var make_pie_for_state = function(state) {
           .append("g")
             .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
             
-            var defs = svg2.append("defs");
+      var defs = svg2.append("defs");
 
       var filter = defs.append("filter")
           .attr("id", "dropshadow")

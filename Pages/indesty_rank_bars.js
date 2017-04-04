@@ -1,8 +1,33 @@
 
 var make_inds_bars = function(state) {
+    
+     var plot_two = document.createElement('div');
+        plot_two.id = "plot_two";
+        plot_two.setAttribute("class", "chart_holder");
+        plot_two.style.position = "relative";
+        plot_two.style.cssFloat = "left";
+        line_plot.style.padding = 0;
+        plot_two.style.paddingLeft = 40;
+        plot_two.style.marginLeft = 40;
+//        plot_two.style.marginBottom = 10;
+        plot_two.style.width = 600;
+        plot_two.style.boxShadow = "2px 15px 22px lightblue";
+        plot_two.style.borderRadius = "14px";
+    document.body.appendChild(plot_two);
+    
+    var rank_heading = document.createElement("h2");
+        rank_heading.innerHTML = "RANKED BY PEOPLE EMPLYED 2004"
+        rank_heading.innerHTML = rank_heading.innerHTML.split('').join('<br>');
+        rank_heading.style.position = "relative";
+        rank_heading.style.cssFloat = "right";
+        rank_heading.style.fontFamily = "monospace";
+        rank_heading.style.paddingRight = "48px";
+        rank_heading.style.paddingTop = "10px"; 
+    
+    plot_two.appendChild(rank_heading);
 //    d3.select("svg").remove();
     
-    var path_to_data = "/style-testing/Pages/industry_data.csv";
+    var path_to_data = "/d3_testing/Pages/industry_data.csv";
     d3.csv(path_to_data, function(data) {
         console.log(data[0])
          // color scale
@@ -25,6 +50,9 @@ var make_inds_bars = function(state) {
                 "#e377c2","#f7b6d2","#7f7f7f","#c7c7c7","#bcbd22","#dbdb8d",
                 "#17becf", "#9edae5"]);  
         
+        
+     
+        
         var year = "2004";
         var data = data.filter(function(d) { 
             if( d["state"] == state && d["year"]==year && d["industry"]!="00" && d["industry"]!="000" && d["industry"]!="0000")
@@ -46,30 +74,54 @@ var make_inds_bars = function(state) {
         };
                               
                                               
-        data = data.sort(function (a,b) {return d3.descending(a.avrage_pay, b.avrage_pay); });
+        data = data.sort(function (a,b) {return d3.descending(a.Emp, b.Emp); });
 
         var max = d3.max(data, function(d) { return +d.avrage_pay;} );   
 
         var width = 500;
-        var height = 800;
+        var height = 675;
         var widthScaler = d3.scaleLinear()
                         .domain([0,max])
                         .range([0,width]);
 
 
-        var canvas = d3.select("body")
+        var canvas = d3.select("#plot_two")
                         .append("svg")
                         .attr("width", width)
                         .attr("height", height)
-                        .style("padding", "20px 0px 0px 0px");
+                        .style("padding", "30px 0px 0px 0px");
         
-        var spacing = 36;
+          var defs = canvas.append("defs");
+
+          var filter = defs.append("filter")
+              .attr("id", "dropshadow")
+
+          filter.append("feGaussianBlur")
+              .attr("in", "SourceAlpha")
+              .attr("stdDeviation", 4)
+              .attr("result", "blur");
+          filter.append("feOffset")
+              .attr("in", "blur")
+              .attr("dx", 2)
+              .attr("dy", 2)
+              .attr("result", "offsetBlur");
+
+          var feMerge = filter.append("feMerge");
+
+          feMerge.append("feMergeNode")
+              .attr("in", "offsetBlur")
+          feMerge.append("feMergeNode")
+              .attr("in", "SourceGraphic");
+        
+            var spacing = 32;
+        
         var bars = canvas.selectAll("rect")
                             .data(data)
                             .enter()
                                 .append("rect")
+                                .attr("filter", "url(#dropshadow)")
                                 .attr("width", 0)
-                                .attr("height", spacing-2)
+                                .attr("height", spacing-6)
                                 .attr("y", function(d, i) { return i * spacing})
                                 .attr("fill", "white")
                                 .on("mouseover", function (d) {d3.selectAll("#"+d.industry.split(' ').join('').split(',').join('').replace("(", "").replace(")","")).style("stroke-width", "5");})
@@ -84,7 +136,7 @@ var make_inds_bars = function(state) {
                                     .attr('transform', function(d,i,j) { return 'translate(14,0)' });
         texts.attr("class", "value")
                       .attr("y", function(d, i) { return i * spacing+spacing/2})
-                      .attr("dx", -3)
+                      .attr("dx", -6)
                       .attr("dy", ".35em")
                       .attr("text-anchor", "end")
                       .text(function(d) { return d.industry; });
@@ -92,7 +144,7 @@ var make_inds_bars = function(state) {
 
         bars.transition()
             .duration(1500)
-            .attr("width", function(d) { return widthScaler(d.avrage_pay); })
+            .attr("width", function(d) { return 550; })
             .attr("fill", function(d) {return colorScale(d.industry)});
             
         
