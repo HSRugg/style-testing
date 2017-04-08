@@ -1,0 +1,878 @@
+,Payroll,Emp,year,industry,state,industry_sector
+0,22842058,3578,2009,Crop Production,27,"Agriculture, Forestry, Fishing and Hunting"
+1,64229819,8847,2009,Animal Production and Aquaculture,27,"Agriculture, Forestry, Fishing and Hunting"
+2,10959938,1020,2009,Forestry and Logging,27,"Agriculture, Forestry, Fishing and Hunting"
+3,338771,85,2009,"Fishing, Hunting and Trapping",27,"Agriculture, Forestry, Fishing and Hunting"
+4,14733899,1670,2009,Support Activities for Agriculture and Forestry,27,"Agriculture, Forestry, Fishing and Hunting"
+5,628722,9,2009,Oil and Gas Extraction,27,"Mining, Quarrying, and Oil and Gas Extraction"
+6,82838801,4845,2009,Mining (except Oil and Gas),27,"Mining, Quarrying, and Oil and Gas Extraction"
+7,1181674,97,2009,Support Activities for Mining,27,"Mining, Quarrying, and Oil and Gas Extraction"
+8,260833152,12870,2009,Utilities,27,Utilities
+9,281564122,21616,2009,Construction of Buildings,27,Construction
+10,226658395,15243,2009,Heavy and Civil Engineering Construction,27,Construction
+11,615881869,55828,2009,Specialty Trade Contractors,27,Construction
+12,424116376,42420,2009,Food Manufacturing,27,Manufacturing
+13,27198734,2158,2009,Beverage and Tobacco Product Manufacturing,27,Manufacturing
+14,3543842,393,2009,Textile Mills,27,Manufacturing
+15,17176235,2093,2009,Textile Product Mills,27,Manufacturing
+16,5037448,823,2009,Apparel Manufacturing,27,Manufacturing
+17,12407543,1011,2009,Leather and Allied Product Manufacturing,27,Manufacturing
+18,122669731,12246,2009,Wood Product Manufacturing,27,Manufacturing
+19,150534652,10731,2009,Paper Manufacturing,27,Manufacturing
+20,308633740,28732,2009,Printing and Related Support Activities,27,Manufacturing
+21,54252120,2157,2009,Petroleum and Coal Products Manufacturing,27,Manufacturing
+22,181322939,10594,2009,Chemical Manufacturing,27,Manufacturing
+23,150508024,13953,2009,Plastics and Rubber Products Manufacturing,27,Manufacturing
+24,87426175,9088,2009,Nonmetallic Mineral Product Manufacturing,27,Manufacturing
+25,64762873,6116,2009,Primary Metal Manufacturing,27,Manufacturing
+26,495452260,41916,2009,Fabricated Metal Product Manufacturing,27,Manufacturing
+27,436246770,32702,2009,Machinery Manufacturing,27,Manufacturing
+28,1029292230,54568,2009,Computer and Electronic Product Manufacturing,27,Manufacturing
+29,123574620,9180,2009,"Electrical Equipment, Appliance, and Component Manufacturing",27,Manufacturing
+30,116376477,11006,2009,Transportation Equipment Manufacturing,27,Manufacturing
+31,85181098,9712,2009,Furniture and Related Product Manufacturing,27,Manufacturing
+32,256651905,17855,2009,Miscellaneous Manufacturing,27,Manufacturing
+33,925871198,62173,2009,"Merchant Wholesalers, Durable Goods",27,Wholesale Trade
+34,674529936,42741,2009,"Merchant Wholesalers, Nondurable Goods",27,Wholesale Trade
+35,517633222,22763,2009,Wholesale Electronic Markets and Agents and Brokers,27,Wholesale Trade
+36,25616954,3857,2010,Crop Production,27,"Agriculture, Forestry, Fishing and Hunting"
+37,66054434,9142,2010,Animal Production and Aquaculture,27,"Agriculture, Forestry, Fishing and Hunting"
+38,10800705,1025,2010,Forestry and Logging,27,"Agriculture, Forestry, Fishing and Hunting"
+39,339567,84,2010,"Fishing, Hunting and Trapping",27,"Agriculture, Forestry, Fishing and Hunting"
+40,14019052,1756,2010,Support Activities for Agriculture and Forestry,27,"Agriculture, Forestry, Fishing and Hunting"
+41,1693469,14,2010,Oil and Gas Extraction,27,"Mining, Quarrying, and Oil and Gas Extraction"
+42,74667492,4302,2010,Mining (except Oil and Gas),27,"Mining, Quarrying, and Oil and Gas Extraction"
+43,1839364,98,2010,Support Activities for Mining,27,"Mining, Quarrying, and Oil and Gas Extraction"
+44,306178173,13644,2010,Utilities,27,Utilities
+45,230583652,18268,2010,Construction of Buildings,27,Construction
+46,249424374,17195,2010,Heavy and Civil Engineering Construction,27,Construction
+47,504278117,47401,2010,Specialty Trade Contractors,27,Construction
+48,429569850,43323,2010,Food Manufacturing,27,Manufacturing
+49,31295616,2218,2010,Beverage and Tobacco Product Manufacturing,27,Manufacturing
+50,2884365,298,2010,Textile Mills,27,Manufacturing
+51,16003825,2066,2010,Textile Product Mills,27,Manufacturing
+52,4820608,787,2010,Apparel Manufacturing,27,Manufacturing
+53,12411880,1013,2010,Leather and Allied Product Manufacturing,27,Manufacturing
+54,100726201,10898,2010,Wood Product Manufacturing,27,Manufacturing
+55,172807903,10628,2010,Paper Manufacturing,27,Manufacturing
+56,265112301,24166,2010,Printing and Related Support Activities,27,Manufacturing
+57,50586930,2124,2010,Petroleum and Coal Products Manufacturing,27,Manufacturing
+58,186592617,10194,2010,Chemical Manufacturing,27,Manufacturing
+59,146381055,12472,2010,Plastics and Rubber Products Manufacturing,27,Manufacturing
+60,76619236,7539,2010,Nonmetallic Mineral Product Manufacturing,27,Manufacturing
+61,63712704,4996,2010,Primary Metal Manufacturing,27,Manufacturing
+62,438320394,35952,2010,Fabricated Metal Product Manufacturing,27,Manufacturing
+63,390587416,28340,2010,Machinery Manufacturing,27,Manufacturing
+64,861333542,45788,2010,Computer and Electronic Product Manufacturing,27,Manufacturing
+65,112356525,8053,2010,"Electrical Equipment, Appliance, and Component Manufacturing",27,Manufacturing
+66,102717928,8975,2010,Transportation Equipment Manufacturing,27,Manufacturing
+67,71132345,7465,2010,Furniture and Related Product Manufacturing,27,Manufacturing
+68,306039458,16590,2010,Miscellaneous Manufacturing,27,Manufacturing
+69,858237842,56841,2010,"Merchant Wholesalers, Durable Goods",27,Wholesale Trade
+70,663763029,41175,2010,"Merchant Wholesalers, Nondurable Goods",27,Wholesale Trade
+71,551297211,21994,2010,Wholesale Electronic Markets and Agents and Brokers,27,Wholesale Trade
+72,26441789,3843,2011,Crop Production,27,"Agriculture, Forestry, Fishing and Hunting"
+73,69083988,9044,2011,Animal Production and Aquaculture,27,"Agriculture, Forestry, Fishing and Hunting"
+74,11770814,1071,2011,Forestry and Logging,27,"Agriculture, Forestry, Fishing and Hunting"
+75,267493,94,2011,"Fishing, Hunting and Trapping",27,"Agriculture, Forestry, Fishing and Hunting"
+76,16469030,1801,2011,Support Activities for Agriculture and Forestry,27,"Agriculture, Forestry, Fishing and Hunting"
+77,10414285,18,2011,Oil and Gas Extraction,27,"Mining, Quarrying, and Oil and Gas Extraction"
+78,96511795,5004,2011,Mining (except Oil and Gas),27,"Mining, Quarrying, and Oil and Gas Extraction"
+79,2724082,158,2011,Support Activities for Mining,27,"Mining, Quarrying, and Oil and Gas Extraction"
+80,332346915,13854,2011,Utilities,27,Utilities
+81,252777332,18914,2011,Construction of Buildings,27,Construction
+82,228570261,15362,2011,Heavy and Civil Engineering Construction,27,Construction
+83,556286551,50360,2011,Specialty Trade Contractors,27,Construction
+84,435866299,44693,2011,Food Manufacturing,27,Manufacturing
+85,39397247,2176,2011,Beverage and Tobacco Product Manufacturing,27,Manufacturing
+86,3377238,305,2011,Textile Mills,27,Manufacturing
+87,16685896,2053,2011,Textile Product Mills,27,Manufacturing
+88,4701923,771,2011,Apparel Manufacturing,27,Manufacturing
+89,15827182,1180,2011,Leather and Allied Product Manufacturing,27,Manufacturing
+90,112031162,11043,2011,Wood Product Manufacturing,27,Manufacturing
+91,187397958,10860,2011,Paper Manufacturing,27,Manufacturing
+92,291698009,24874,2011,Printing and Related Support Activities,27,Manufacturing
+93,53758744,2181,2011,Petroleum and Coal Products Manufacturing,27,Manufacturing
+94,212414067,10090,2011,Chemical Manufacturing,27,Manufacturing
+95,175284702,13673,2011,Plastics and Rubber Products Manufacturing,27,Manufacturing
+96,83229870,7456,2011,Nonmetallic Mineral Product Manufacturing,27,Manufacturing
+97,74407427,5867,2011,Primary Metal Manufacturing,27,Manufacturing
+98,506003345,38683,2011,Fabricated Metal Product Manufacturing,27,Manufacturing
+99,455975120,29922,2011,Machinery Manufacturing,27,Manufacturing
+100,965803439,47880,2011,Computer and Electronic Product Manufacturing,27,Manufacturing
+101,145584385,8257,2011,"Electrical Equipment, Appliance, and Component Manufacturing",27,Manufacturing
+102,120247311,8938,2011,Transportation Equipment Manufacturing,27,Manufacturing
+103,83555933,7871,2011,Furniture and Related Product Manufacturing,27,Manufacturing
+104,341469194,20035,2011,Miscellaneous Manufacturing,27,Manufacturing
+105,978321218,59450,2011,"Merchant Wholesalers, Durable Goods",27,Wholesale Trade
+106,665547580,40169,2011,"Merchant Wholesalers, Nondurable Goods",27,Wholesale Trade
+107,537616705,21869,2011,Wholesale Electronic Markets and Agents and Brokers,27,Wholesale Trade
+108,29930958,4291,2012,Crop Production,27,"Agriculture, Forestry, Fishing and Hunting"
+109,76541517,9933,2012,Animal Production and Aquaculture,27,"Agriculture, Forestry, Fishing and Hunting"
+110,11898566,1108,2012,Forestry and Logging,27,"Agriculture, Forestry, Fishing and Hunting"
+111,413503,105,2012,"Fishing, Hunting and Trapping",27,"Agriculture, Forestry, Fishing and Hunting"
+112,17982660,1846,2012,Support Activities for Agriculture and Forestry,27,"Agriculture, Forestry, Fishing and Hunting"
+113,6104848,35,2012,Oil and Gas Extraction,27,"Mining, Quarrying, and Oil and Gas Extraction"
+114,112187220,5468,2012,Mining (except Oil and Gas),27,"Mining, Quarrying, and Oil and Gas Extraction"
+115,4470662,232,2012,Support Activities for Mining,27,"Mining, Quarrying, and Oil and Gas Extraction"
+116,358087978,13850,2012,Utilities,27,Utilities
+117,285980001,19868,2012,Construction of Buildings,27,Construction
+118,228465416,16250,2012,Heavy and Civil Engineering Construction,27,Construction
+119,627590160,52657,2012,Specialty Trade Contractors,27,Construction
+120,472470890,44237,2012,Food Manufacturing,27,Manufacturing
+121,41364474,2465,2012,Beverage and Tobacco Product Manufacturing,27,Manufacturing
+122,3598599,332,2012,Textile Mills,27,Manufacturing
+123,19025842,2282,2012,Textile Product Mills,27,Manufacturing
+124,5630968,804,2012,Apparel Manufacturing,27,Manufacturing
+125,19264744,1213,2012,Leather and Allied Product Manufacturing,27,Manufacturing
+126,123119802,10352,2012,Wood Product Manufacturing,27,Manufacturing
+127,180172865,9940,2012,Paper Manufacturing,27,Manufacturing
+128,305426533,24039,2012,Printing and Related Support Activities,27,Manufacturing
+129,77035346,2404,2012,Petroleum and Coal Products Manufacturing,27,Manufacturing
+130,202382228,10363,2012,Chemical Manufacturing,27,Manufacturing
+131,192030561,13988,2012,Plastics and Rubber Products Manufacturing,27,Manufacturing
+132,93639977,7940,2012,Nonmetallic Mineral Product Manufacturing,27,Manufacturing
+133,85392943,6309,2012,Primary Metal Manufacturing,27,Manufacturing
+134,554710781,40974,2012,Fabricated Metal Product Manufacturing,27,Manufacturing
+135,515703251,32374,2012,Machinery Manufacturing,27,Manufacturing
+136,1111512534,49556,2012,Computer and Electronic Product Manufacturing,27,Manufacturing
+137,162896217,8834,2012,"Electrical Equipment, Appliance, and Component Manufacturing",27,Manufacturing
+138,136566375,9127,2012,Transportation Equipment Manufacturing,27,Manufacturing
+139,89277193,8121,2012,Furniture and Related Product Manufacturing,27,Manufacturing
+140,351477833,20148,2012,Miscellaneous Manufacturing,27,Manufacturing
+141,1085956332,61266,2012,"Merchant Wholesalers, Durable Goods",27,Wholesale Trade
+142,700027335,40036,2012,"Merchant Wholesalers, Nondurable Goods",27,Wholesale Trade
+143,595230800,22635,2012,Wholesale Electronic Markets and Agents and Brokers,27,Wholesale Trade
+0,252157354,28537,2009,Motor Vehicle and Parts Dealers,27,Retail Trade
+1,63008341,9157,2009,Furniture and Home Furnishings Stores,27,Retail Trade
+2,105567647,9583,2009,Electronics and Appliance Stores,27,Retail Trade
+3,153951346,21809,2009,Building Material and Garden Equipment and Supplies Dealers,27,Retail Trade
+4,286436197,53895,2009,Food and Beverage Stores,27,Retail Trade
+5,132015468,16868,2009,Health and Personal Care Stores,27,Retail Trade
+6,94191512,23147,2009,Gasoline Stations,27,Retail Trade
+7,75219297,19611,2009,Clothing and Clothing Accessories Stores,27,Retail Trade
+8,50545035,12740,2009,"Sporting Goods, Hobby, Musical Instrument, and Book Stores",27,Retail Trade
+9,285235601,63289,2009,General Merchandise Stores,27,Retail Trade
+10,78762124,16103,2009,Miscellaneous Store Retailers,27,Retail Trade
+11,96179149,9275,2009,Nonstore Retailers,27,Retail Trade
+12,217638265,14533,2009,Air Transportation,27,Transportation and Warehousing
+13,66116,null,2009,Rail Transportation,27,Transportation and Warehousing
+14,3535556,267,2009,Water Transportation,27,Transportation and Warehousing
+15,225548730,23378,2009,Truck Transportation,27,Transportation and Warehousing
+16,103182936,18146,2009,Transit and Ground Passenger Transportation,27,Transportation and Warehousing
+17,10276227,416,2009,Pipeline Transportation,27,Transportation and Warehousing
+18,407992,112,2009,Scenic and Sightseeing Transportation,27,Transportation and Warehousing
+19,72903017,5993,2009,Support Activities for Transportation,27,Transportation and Warehousing
+20,12432,null,2009,Postal Service,27,Transportation and Warehousing
+21,78614838,9586,2009,Couriers and Messengers,27,Transportation and Warehousing
+22,74700514,6947,2009,Warehousing and Storage,27,Transportation and Warehousing
+23,393496124,21964,2009,Publishing Industries (except Internet),27,Information
+24,19417644,4330,2009,Motion Picture and Sound Recording Industries,27,Information
+25,51313848,4568,2009,Broadcasting (except Internet),27,Information
+26,238398899,14496,2009,Telecommunications,27,Information
+27,114055440,6955,2009,"Data Processing, Hosting, and Related Services",27,Information
+28,47962500,4444,2009,Other Information Services,27,Information
+29,22654856,1293,2009,Monetary Authorities-Central Bank,27,Finance and Insurance
+30,898761477,51378,2009,Credit Intermediation and Related Activities,27,Finance and Insurance
+31,641423219,18926,2009,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",27,Finance and Insurance
+32,1586019573,61713,2009,Insurance Carriers and Related Activities,27,Finance and Insurance
+33,26843215,1285,2009,"Funds, Trusts, and Other Financial Vehicles",27,Finance and Insurance
+34,416291684,30934,2009,Real Estate,27,Real Estate and Rental and Leasing
+35,77266459,7399,2009,Rental and Leasing Services,27,Real Estate and Rental and Leasing
+36,247273213,27344,2010,Motor Vehicle and Parts Dealers,27,Retail Trade
+37,54340645,8049,2010,Furniture and Home Furnishings Stores,27,Retail Trade
+38,66045300,8608,2010,Electronics and Appliance Stores,27,Retail Trade
+39,148388618,20800,2010,Building Material and Garden Equipment and Supplies Dealers,27,Retail Trade
+40,269973089,51932,2010,Food and Beverage Stores,27,Retail Trade
+41,124206890,16150,2010,Health and Personal Care Stores,27,Retail Trade
+42,93287299,22909,2010,Gasoline Stations,27,Retail Trade
+43,75684088,20270,2010,Clothing and Clothing Accessories Stores,27,Retail Trade
+44,47048497,11897,2010,"Sporting Goods, Hobby, Musical Instrument, and Book Stores",27,Retail Trade
+45,278884649,60832,2010,General Merchandise Stores,27,Retail Trade
+46,70377958,14780,2010,Miscellaneous Store Retailers,27,Retail Trade
+47,98533792,9304,2010,Nonstore Retailers,27,Retail Trade
+48,322634229,18734,2010,Air Transportation,27,Transportation and Warehousing
+49,351704,31,2010,Rail Transportation,27,Transportation and Warehousing
+50,2382344,200,2010,Water Transportation,27,Transportation and Warehousing
+51,205413619,21704,2010,Truck Transportation,27,Transportation and Warehousing
+52,104408532,16370,2010,Transit and Ground Passenger Transportation,27,Transportation and Warehousing
+53,9957708,409,2010,Pipeline Transportation,27,Transportation and Warehousing
+54,387804,95,2010,Scenic and Sightseeing Transportation,27,Transportation and Warehousing
+55,71830885,6318,2010,Support Activities for Transportation,27,Transportation and Warehousing
+56,99879,25,2010,Postal Service,27,Transportation and Warehousing
+57,65716697,7826,2010,Couriers and Messengers,27,Transportation and Warehousing
+58,68863922,6482,2010,Warehousing and Storage,27,Transportation and Warehousing
+59,384599325,22934,2010,Publishing Industries (except Internet),27,Information
+60,18730088,4385,2010,Motion Picture and Sound Recording Industries,27,Information
+61,55179226,4904,2010,Broadcasting (except Internet),27,Information
+62,208373923,13202,2010,Telecommunications,27,Information
+63,119102665,6465,2010,"Data Processing, Hosting, and Related Services",27,Information
+64,47881154,3897,2010,Other Information Services,27,Information
+65,21300047,1183,2010,Monetary Authorities-Central Bank,27,Finance and Insurance
+66,885992326,51088,2010,Credit Intermediation and Related Activities,27,Finance and Insurance
+67,705116832,17806,2010,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",27,Finance and Insurance
+68,1503406271,60539,2010,Insurance Carriers and Related Activities,27,Finance and Insurance
+69,21907055,1157,2010,"Funds, Trusts, and Other Financial Vehicles",27,Finance and Insurance
+70,475502891,31615,2010,Real Estate,27,Real Estate and Rental and Leasing
+71,68820041,6984,2010,Rental and Leasing Services,27,Real Estate and Rental and Leasing
+72,264560825,27902,2011,Motor Vehicle and Parts Dealers,27,Retail Trade
+73,59227859,8326,2011,Furniture and Home Furnishings Stores,27,Retail Trade
+74,74361356,9161,2011,Electronics and Appliance Stores,27,Retail Trade
+75,165015852,21525,2011,Building Material and Garden Equipment and Supplies Dealers,27,Retail Trade
+76,270894330,51340,2011,Food and Beverage Stores,27,Retail Trade
+77,125841106,16269,2011,Health and Personal Care Stores,27,Retail Trade
+78,98236513,23497,2011,Gasoline Stations,27,Retail Trade
+79,73284863,19008,2011,Clothing and Clothing Accessories Stores,27,Retail Trade
+80,49643631,12249,2011,"Sporting Goods, Hobby, Musical Instrument, and Book Stores",27,Retail Trade
+81,295342488,61534,2011,General Merchandise Stores,27,Retail Trade
+82,72027602,15380,2011,Miscellaneous Store Retailers,27,Retail Trade
+83,95506610,9253,2011,Nonstore Retailers,27,Retail Trade
+84,50641312,4403,2011,Air Transportation,27,Transportation and Warehousing
+85,43785,null,2011,Rail Transportation,27,Transportation and Warehousing
+86,3690935,266,2011,Water Transportation,27,Transportation and Warehousing
+87,225107077,22408,2011,Truck Transportation,27,Transportation and Warehousing
+88,108806774,16505,2011,Transit and Ground Passenger Transportation,27,Transportation and Warehousing
+89,10809883,420,2011,Pipeline Transportation,27,Transportation and Warehousing
+90,354629,77,2011,Scenic and Sightseeing Transportation,27,Transportation and Warehousing
+91,79863262,6735,2011,Support Activities for Transportation,27,Transportation and Warehousing
+92,94495,22,2011,Postal Service,27,Transportation and Warehousing
+93,72622268,8006,2011,Couriers and Messengers,27,Transportation and Warehousing
+94,80244223,6893,2011,Warehousing and Storage,27,Transportation and Warehousing
+95,417471148,22665,2011,Publishing Industries (except Internet),27,Information
+96,19580909,4140,2011,Motion Picture and Sound Recording Industries,27,Information
+97,59969438,4800,2011,Broadcasting (except Internet),27,Information
+98,218398393,12828,2011,Telecommunications,27,Information
+99,135714934,7079,2011,"Data Processing, Hosting, and Related Services",27,Information
+100,51621083,4300,2011,Other Information Services,27,Information
+101,22130073,1169,2011,Monetary Authorities-Central Bank,27,Finance and Insurance
+102,995188758,50603,2011,Credit Intermediation and Related Activities,27,Finance and Insurance
+103,904138542,17313,2011,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",27,Finance and Insurance
+104,1663865549,61999,2011,Insurance Carriers and Related Activities,27,Finance and Insurance
+105,23102324,1114,2011,"Funds, Trusts, and Other Financial Vehicles",27,Finance and Insurance
+106,509492431,34012,2011,Real Estate,27,Real Estate and Rental and Leasing
+107,71358923,6278,2011,Rental and Leasing Services,27,Real Estate and Rental and Leasing
+108,293080443,29277,2012,Motor Vehicle and Parts Dealers,27,Retail Trade
+109,63912728,8240,2012,Furniture and Home Furnishings Stores,27,Retail Trade
+110,108373583,10451,2012,Electronics and Appliance Stores,27,Retail Trade
+111,172714371,21541,2012,Building Material and Garden Equipment and Supplies Dealers,27,Retail Trade
+112,307576528,53982,2012,Food and Beverage Stores,27,Retail Trade
+113,142643284,16602,2012,Health and Personal Care Stores,27,Retail Trade
+114,97821293,22488,2012,Gasoline Stations,27,Retail Trade
+115,87685815,19572,2012,Clothing and Clothing Accessories Stores,27,Retail Trade
+116,54130642,11772,2012,"Sporting Goods, Hobby, Musical Instrument, and Book Stores",27,Retail Trade
+117,318708057,61845,2012,General Merchandise Stores,27,Retail Trade
+118,82233441,15655,2012,Miscellaneous Store Retailers,27,Retail Trade
+119,112779618,10197,2012,Nonstore Retailers,27,Retail Trade
+120,51151787,4699,2012,Air Transportation,27,Transportation and Warehousing
+121,208973,24,2012,Rail Transportation,27,Transportation and Warehousing
+122,4257349,297,2012,Water Transportation,27,Transportation and Warehousing
+123,247170867,23263,2012,Truck Transportation,27,Transportation and Warehousing
+124,134385989,19975,2012,Transit and Ground Passenger Transportation,27,Transportation and Warehousing
+125,12973628,439,2012,Pipeline Transportation,27,Transportation and Warehousing
+126,446643,91,2012,Scenic and Sightseeing Transportation,27,Transportation and Warehousing
+127,101418020,7013,2012,Support Activities for Transportation,27,Transportation and Warehousing
+128,143020,30,2012,Postal Service,27,Transportation and Warehousing
+129,76190952,7845,2012,Couriers and Messengers,27,Transportation and Warehousing
+130,109600934,7335,2012,Warehousing and Storage,27,Transportation and Warehousing
+131,321202980,17714,2012,Publishing Industries (except Internet),27,Information
+132,19529145,4116,2012,Motion Picture and Sound Recording Industries,27,Information
+133,61995237,4775,2012,Broadcasting (except Internet),27,Information
+134,209947903,12119,2012,Telecommunications,27,Information
+135,117960608,5326,2012,"Data Processing, Hosting, and Related Services",27,Information
+136,59714187,4748,2012,Other Information Services,27,Information
+137,23780734,1209,2012,Monetary Authorities-Central Bank,27,Finance and Insurance
+138,1043360017,48349,2012,Credit Intermediation and Related Activities,27,Finance and Insurance
+139,790320345,18038,2012,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",27,Finance and Insurance
+140,2060731147,62269,2012,Insurance Carriers and Related Activities,27,Finance and Insurance
+141,70977893,1573,2012,"Funds, Trusts, and Other Financial Vehicles",27,Finance and Insurance
+142,615928273,34428,2012,Real Estate,27,Real Estate and Rental and Leasing
+143,79851612,6435,2012,Rental and Leasing Services,27,Real Estate and Rental and Leasing
+0,37217149,4207,2009,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),27,Real Estate and Rental and Leasing
+1,2188190417,126622,2009,"Professional, Scientific, and Technical Services",27,"Professional, Scientific, and Technical Services"
+2,1769508417,80490,2009,Management of Companies and Enterprises,27,Management of Companies and Enterprises
+3,785890549,103662,2009,Administrative and Support Services,27,"Administrative, Support, Waste Management, and Remediation"
+4,67622732,6190,2009,Waste Management and Remediation Services,27,"Administrative, Support, Waste Management, and Remediation"
+5,2305113222,224315,2009,Educational Services,27,Educational Services
+6,1744878359,120818,2009,Ambulatory Health Care Services,27,Health Care and Social Assistance
+7,1295871841,102340,2009,Hospitals,27,Health Care and Social Assistance
+8,603037520,105601,2009,Nursing and Residential Care Facilities,27,Health Care and Social Assistance
+9,391474400,71958,2009,Social Assistance,27,Health Care and Social Assistance
+10,141864556,6910,2009,"Performing Arts, Spectator Sports, and Related Industries",27,"Arts, Entertainment, and Recreation"
+11,33236997,3969,2009,"Museums, Historical Sites, and Similar Institutions",27,"Arts, Entertainment, and Recreation"
+12,139233367,31714,2009,"Amusement, Gambling, and Recreation Industries",27,"Arts, Entertainment, and Recreation"
+13,151514059,28617,2009,Accommodation,27,Accommodation and Food Services
+14,543020096,162482,2009,Food Services and Drinking Places,27,Accommodation and Food Services
+15,170131766,19450,2009,Repair and Maintenance,27,Other Services (except Public Administration)
+16,159546829,29221,2009,Personal and Laundry Services,27,Other Services (except Public Administration)
+17,207510607,32086,2009,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",27,Other Services (except Public Administration)
+18,12066135,2303,2009,Private Households,27,Other Services (except Public Administration)
+19,641259042,62174,2009,"Executive, Legislative, and Other General Government Support",27,Public Administration
+20,275242246,19676,2009,"Justice, Public Order, and Safety Activities",27,Public Administration
+21,204856411,15193,2009,Administration of Human Resource Programs,27,Public Administration
+22,85983469,6554,2009,Administration of Environmental Quality Programs,27,Public Administration
+23,24827615,2026,2009,"Administration of Housing Programs, Urban Planning, and Community Development",27,Public Administration
+24,65163007,4581,2009,Administration of Economic Programs,27,Public Administration
+25,3867239,322,2009,National Security and International Affairs,27,Public Administration
+26,18484706,911,2010,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),27,Real Estate and Rental and Leasing
+27,2156986812,122148,2010,"Professional, Scientific, and Technical Services",27,"Professional, Scientific, and Technical Services"
+28,1970445743,77050,2010,Management of Companies and Enterprises,27,Management of Companies and Enterprises
+29,771629339,105568,2010,Administrative and Support Services,27,"Administrative, Support, Waste Management, and Remediation"
+30,63698586,5908,2010,Waste Management and Remediation Services,27,"Administrative, Support, Waste Management, and Remediation"
+31,2427491661,233337,2010,Educational Services,27,Educational Services
+32,1748905173,123424,2010,Ambulatory Health Care Services,27,Health Care and Social Assistance
+33,1251339411,101914,2010,Hospitals,27,Health Care and Social Assistance
+34,576797344,104968,2010,Nursing and Residential Care Facilities,27,Health Care and Social Assistance
+35,398504595,75119,2010,Social Assistance,27,Health Care and Social Assistance
+36,135967789,7512,2010,"Performing Arts, Spectator Sports, and Related Industries",27,"Arts, Entertainment, and Recreation"
+37,29946356,3749,2010,"Museums, Historical Sites, and Similar Institutions",27,"Arts, Entertainment, and Recreation"
+38,134181062,30658,2010,"Amusement, Gambling, and Recreation Industries",27,"Arts, Entertainment, and Recreation"
+39,142092407,27817,2010,Accommodation,27,Accommodation and Food Services
+40,529640652,158989,2010,Food Services and Drinking Places,27,Accommodation and Food Services
+41,165099894,19134,2010,Repair and Maintenance,27,Other Services (except Public Administration)
+42,139677293,27074,2010,Personal and Laundry Services,27,Other Services (except Public Administration)
+43,202254851,33550,2010,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",27,Other Services (except Public Administration)
+44,13352117,2509,2010,Private Households,27,Other Services (except Public Administration)
+45,702153070,64200,2010,"Executive, Legislative, and Other General Government Support",27,Public Administration
+46,255940467,18510,2010,"Justice, Public Order, and Safety Activities",27,Public Administration
+47,179996709,13670,2010,Administration of Human Resource Programs,27,Public Administration
+48,72846544,6277,2010,Administration of Environmental Quality Programs,27,Public Administration
+49,24346928,2092,2010,"Administration of Housing Programs, Urban Planning, and Community Development",27,Public Administration
+50,58208226,4663,2010,Administration of Economic Programs,27,Public Administration
+51,3215025,305,2010,National Security and International Affairs,27,Public Administration
+52,20873442,910,2011,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),27,Real Estate and Rental and Leasing
+53,2344900246,125052,2011,"Professional, Scientific, and Technical Services",27,"Professional, Scientific, and Technical Services"
+54,1982622249,68422,2011,Management of Companies and Enterprises,27,Management of Companies and Enterprises
+55,881148878,117473,2011,Administrative and Support Services,27,"Administrative, Support, Waste Management, and Remediation"
+56,68330297,6146,2011,Waste Management and Remediation Services,27,"Administrative, Support, Waste Management, and Remediation"
+57,2368105901,235766,2011,Educational Services,27,Educational Services
+58,1820441721,124755,2011,Ambulatory Health Care Services,27,Health Care and Social Assistance
+59,1319016651,104184,2011,Hospitals,27,Health Care and Social Assistance
+60,600855370,109067,2011,Nursing and Residential Care Facilities,27,Health Care and Social Assistance
+61,408143865,75129,2011,Social Assistance,27,Health Care and Social Assistance
+62,110639307,8092,2011,"Performing Arts, Spectator Sports, and Related Industries",27,"Arts, Entertainment, and Recreation"
+63,31444001,3903,2011,"Museums, Historical Sites, and Similar Institutions",27,"Arts, Entertainment, and Recreation"
+64,143088346,31682,2011,"Amusement, Gambling, and Recreation Industries",27,"Arts, Entertainment, and Recreation"
+65,143404425,27529,2011,Accommodation,27,Accommodation and Food Services
+66,563997633,162999,2011,Food Services and Drinking Places,27,Accommodation and Food Services
+67,187089122,19910,2011,Repair and Maintenance,27,Other Services (except Public Administration)
+68,142586983,26558,2011,Personal and Laundry Services,27,Other Services (except Public Administration)
+69,213279084,34188,2011,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",27,Other Services (except Public Administration)
+70,14390868,2750,2011,Private Households,27,Other Services (except Public Administration)
+71,645245637,62890,2011,"Executive, Legislative, and Other General Government Support",27,Public Administration
+72,255632435,19541,2011,"Justice, Public Order, and Safety Activities",27,Public Administration
+73,178139129,14339,2011,Administration of Human Resource Programs,27,Public Administration
+74,74988640,6336,2011,Administration of Environmental Quality Programs,27,Public Administration
+75,25582214,2172,2011,"Administration of Housing Programs, Urban Planning, and Community Development",27,Public Administration
+76,62602416,4895,2011,Administration of Economic Programs,27,Public Administration
+77,3423082,329,2011,National Security and International Affairs,27,Public Administration
+78,21972177,826,2012,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),27,Real Estate and Rental and Leasing
+79,2465849123,128168,2012,"Professional, Scientific, and Technical Services",27,"Professional, Scientific, and Technical Services"
+80,2256491846,74917,2012,Management of Companies and Enterprises,27,Management of Companies and Enterprises
+81,994987275,121347,2012,Administrative and Support Services,27,"Administrative, Support, Waste Management, and Remediation"
+82,68816725,5943,2012,Waste Management and Remediation Services,27,"Administrative, Support, Waste Management, and Remediation"
+83,2426221685,238246,2012,Educational Services,27,Educational Services
+84,1972141194,126884,2012,Ambulatory Health Care Services,27,Health Care and Social Assistance
+85,1518692677,107891,2012,Hospitals,27,Health Care and Social Assistance
+86,649079725,110563,2012,Nursing and Residential Care Facilities,27,Health Care and Social Assistance
+87,449715915,78646,2012,Social Assistance,27,Health Care and Social Assistance
+88,136187678,8246,2012,"Performing Arts, Spectator Sports, and Related Industries",27,"Arts, Entertainment, and Recreation"
+89,33298167,3956,2012,"Museums, Historical Sites, and Similar Institutions",27,"Arts, Entertainment, and Recreation"
+90,160455149,33505,2012,"Amusement, Gambling, and Recreation Industries",27,"Arts, Entertainment, and Recreation"
+91,155997064,27996,2012,Accommodation,27,Accommodation and Food Services
+92,610393725,162609,2012,Food Services and Drinking Places,27,Accommodation and Food Services
+93,199669002,20679,2012,Repair and Maintenance,27,Other Services (except Public Administration)
+94,158258982,27384,2012,Personal and Laundry Services,27,Other Services (except Public Administration)
+95,223890642,33663,2012,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",27,Other Services (except Public Administration)
+96,15703314,2778,2012,Private Households,27,Other Services (except Public Administration)
+97,679781539,62486,2012,"Executive, Legislative, and Other General Government Support",27,Public Administration
+98,275670534,19858,2012,"Justice, Public Order, and Safety Activities",27,Public Administration
+99,186744117,14065,2012,Administration of Human Resource Programs,27,Public Administration
+100,75667194,6282,2012,Administration of Environmental Quality Programs,27,Public Administration
+101,28369280,2188,2012,"Administration of Housing Programs, Urban Planning, and Community Development",27,Public Administration
+102,61742037,4832,2012,Administration of Economic Programs,27,Public Administration
+103,3211403,309,2012,National Security and International Affairs,27,Public Administration
+0,20152032,3254,2004,Crop Production,27,"Agriculture, Forestry, Fishing and Hunting"
+1,45129474,7117,2004,Animal Production and Aquaculture,27,"Agriculture, Forestry, Fishing and Hunting"
+2,9392129,1076,2004,Forestry and Logging,27,"Agriculture, Forestry, Fishing and Hunting"
+3,408506,118,2004,"Fishing, Hunting and Trapping",27,"Agriculture, Forestry, Fishing and Hunting"
+4,9736527,1394,2004,Support Activities for Agriculture and Forestry,27,"Agriculture, Forestry, Fishing and Hunting"
+5,65161,8,2004,Oil and Gas Extraction,27,"Mining, Quarrying, and Oil and Gas Extraction"
+6,68991509,5463,2004,Mining (except Oil and Gas),27,"Mining, Quarrying, and Oil and Gas Extraction"
+7,184287,17,2004,Support Activities for Mining,27,"Mining, Quarrying, and Oil and Gas Extraction"
+8,284864385,12923,2004,Utilities,27,Utilities
+9,344389500,28057,2004,Construction of Buildings,27,Construction
+10,172955961,16402,2004,Heavy and Civil Engineering Construction,27,Construction
+11,744021879,71933,2004,Specialty Trade Contractors,27,Construction
+12,400216278,41260,2004,Food Manufacturing,27,Manufacturing
+13,25960868,2413,2004,Beverage and Tobacco Product Manufacturing,27,Manufacturing
+14,3945730,471,2004,Textile Mills,27,Manufacturing
+15,19679827,2809,2004,Textile Product Mills,27,Manufacturing
+16,6802368,1172,2004,Apparel Manufacturing,27,Manufacturing
+17,13757063,1285,2004,Leather and Allied Product Manufacturing,27,Manufacturing
+18,200961113,17087,2004,Wood Product Manufacturing,27,Manufacturing
+19,174077891,12623,2004,Paper Manufacturing,27,Manufacturing
+20,332785984,29571,2004,Printing and Related Support Activities,27,Manufacturing
+21,35549440,1942,2004,Petroleum and Coal Products Manufacturing,27,Manufacturing
+22,152542918,9463,2004,Chemical Manufacturing,27,Manufacturing
+23,161908283,16214,2004,Plastics and Rubber Products Manufacturing,27,Manufacturing
+24,91191264,9018,2004,Nonmetallic Mineral Product Manufacturing,27,Manufacturing
+25,61386781,5540,2004,Primary Metal Manufacturing,27,Manufacturing
+26,456309329,39191,2004,Fabricated Metal Product Manufacturing,27,Manufacturing
+27,408999480,31056,2004,Machinery Manufacturing,27,Manufacturing
+28,1076477525,58609,2004,Computer and Electronic Product Manufacturing,27,Manufacturing
+29,99669158,8317,2004,"Electrical Equipment, Appliance, and Component Manufacturing",27,Manufacturing
+30,142473833,13387,2004,Transportation Equipment Manufacturing,27,Manufacturing
+31,104878050,11660,2004,Furniture and Related Product Manufacturing,27,Manufacturing
+32,337193159,20006,2004,Miscellaneous Manufacturing,27,Manufacturing
+33,891670577,61285,2004,"Merchant Wholesalers, Durable Goods",27,Wholesale Trade
+34,557248509,42911,2004,"Merchant Wholesalers, Nondurable Goods",27,Wholesale Trade
+35,446599692,22510,2004,Wholesale Electronic Markets and Agents and Brokers,27,Wholesale Trade
+36,18695385,3039,2005,Crop Production,27,"Agriculture, Forestry, Fishing and Hunting"
+37,45928432,7283,2005,Animal Production and Aquaculture,27,"Agriculture, Forestry, Fishing and Hunting"
+38,9963594,1048,2005,Forestry and Logging,27,"Agriculture, Forestry, Fishing and Hunting"
+39,320154,103,2005,"Fishing, Hunting and Trapping",27,"Agriculture, Forestry, Fishing and Hunting"
+40,9763596,1421,2005,Support Activities for Agriculture and Forestry,27,"Agriculture, Forestry, Fishing and Hunting"
+41,47140,8,2005,Oil and Gas Extraction,27,"Mining, Quarrying, and Oil and Gas Extraction"
+42,77333773,5309,2005,Mining (except Oil and Gas),27,"Mining, Quarrying, and Oil and Gas Extraction"
+43,281508,25,2005,Support Activities for Mining,27,"Mining, Quarrying, and Oil and Gas Extraction"
+44,244644731,12652,2005,Utilities,27,Utilities
+45,352793984,28951,2005,Construction of Buildings,27,Construction
+46,160941551,15285,2005,Heavy and Civil Engineering Construction,27,Construction
+47,772413071,72386,2005,Specialty Trade Contractors,27,Construction
+48,382243755,42194,2005,Food Manufacturing,27,Manufacturing
+49,26164551,2434,2005,Beverage and Tobacco Product Manufacturing,27,Manufacturing
+50,3395270,407,2005,Textile Mills,27,Manufacturing
+51,20120962,2821,2005,Textile Product Mills,27,Manufacturing
+52,6612913,1137,2005,Apparel Manufacturing,27,Manufacturing
+53,12907170,1199,2005,Leather and Allied Product Manufacturing,27,Manufacturing
+54,210692823,16449,2005,Wood Product Manufacturing,27,Manufacturing
+55,188415198,13999,2005,Paper Manufacturing,27,Manufacturing
+56,357506924,31741,2005,Printing and Related Support Activities,27,Manufacturing
+57,47068501,2142,2005,Petroleum and Coal Products Manufacturing,27,Manufacturing
+58,155716146,9891,2005,Chemical Manufacturing,27,Manufacturing
+59,168572305,16196,2005,Plastics and Rubber Products Manufacturing,27,Manufacturing
+60,89770993,9288,2005,Nonmetallic Mineral Product Manufacturing,27,Manufacturing
+61,65110392,5672,2005,Primary Metal Manufacturing,27,Manufacturing
+62,478080510,40442,2005,Fabricated Metal Product Manufacturing,27,Manufacturing
+63,409304849,31303,2005,Machinery Manufacturing,27,Manufacturing
+64,968521300,57492,2005,Computer and Electronic Product Manufacturing,27,Manufacturing
+65,110385397,8065,2005,"Electrical Equipment, Appliance, and Component Manufacturing",27,Manufacturing
+66,149360147,13896,2005,Transportation Equipment Manufacturing,27,Manufacturing
+67,107057292,12051,2005,Furniture and Related Product Manufacturing,27,Manufacturing
+68,293489793,20857,2005,Miscellaneous Manufacturing,27,Manufacturing
+69,954265783,64385,2005,"Merchant Wholesalers, Durable Goods",27,Wholesale Trade
+70,601516649,43179,2005,"Merchant Wholesalers, Nondurable Goods",27,Wholesale Trade
+71,465084816,22150,2005,Wholesale Electronic Markets and Agents and Brokers,27,Wholesale Trade
+72,23082333,3101,2006,Crop Production,27,"Agriculture, Forestry, Fishing and Hunting"
+73,56147209,8075,2006,Animal Production and Aquaculture,27,"Agriculture, Forestry, Fishing and Hunting"
+74,19722785,1789,2006,Forestry and Logging,27,"Agriculture, Forestry, Fishing and Hunting"
+75,363134,122,2006,"Fishing, Hunting and Trapping",27,"Agriculture, Forestry, Fishing and Hunting"
+76,12815521,1630,2006,Support Activities for Agriculture and Forestry,27,"Agriculture, Forestry, Fishing and Hunting"
+77,103363,null,2006,Oil and Gas Extraction,27,"Mining, Quarrying, and Oil and Gas Extraction"
+78,83111445,5294,2006,Mining (except Oil and Gas),27,"Mining, Quarrying, and Oil and Gas Extraction"
+79,581556,39,2006,Support Activities for Mining,27,"Mining, Quarrying, and Oil and Gas Extraction"
+80,291100557,13051,2006,Utilities,27,Utilities
+81,378976030,28936,2006,Construction of Buildings,27,Construction
+82,200419753,16030,2006,Heavy and Civil Engineering Construction,27,Construction
+83,825999122,72634,2006,Specialty Trade Contractors,27,Construction
+84,417842236,41219,2006,Food Manufacturing,27,Manufacturing
+85,27673867,2433,2006,Beverage and Tobacco Product Manufacturing,27,Manufacturing
+86,4674338,498,2006,Textile Mills,27,Manufacturing
+87,22618595,2811,2006,Textile Product Mills,27,Manufacturing
+88,6892246,1036,2006,Apparel Manufacturing,27,Manufacturing
+89,13771298,1161,2006,Leather and Allied Product Manufacturing,27,Manufacturing
+90,233561260,16855,2006,Wood Product Manufacturing,27,Manufacturing
+91,181793900,12885,2006,Paper Manufacturing,27,Manufacturing
+92,389783301,30170,2006,Printing and Related Support Activities,27,Manufacturing
+93,65041938,2246,2006,Petroleum and Coal Products Manufacturing,27,Manufacturing
+94,180356692,9866,2006,Chemical Manufacturing,27,Manufacturing
+95,200281173,16002,2006,Plastics and Rubber Products Manufacturing,27,Manufacturing
+96,99004137,9670,2006,Nonmetallic Mineral Product Manufacturing,27,Manufacturing
+97,81638703,5586,2006,Primary Metal Manufacturing,27,Manufacturing
+98,557961437,42942,2006,Fabricated Metal Product Manufacturing,27,Manufacturing
+99,478346918,30860,2006,Machinery Manufacturing,27,Manufacturing
+100,1149286393,60303,2006,Computer and Electronic Product Manufacturing,27,Manufacturing
+101,122814676,8310,2006,"Electrical Equipment, Appliance, and Component Manufacturing",27,Manufacturing
+102,167538270,13760,2006,Transportation Equipment Manufacturing,27,Manufacturing
+103,131926714,12247,2006,Furniture and Related Product Manufacturing,27,Manufacturing
+104,344256381,21729,2006,Miscellaneous Manufacturing,27,Manufacturing
+105,1030148552,65271,2006,"Merchant Wholesalers, Durable Goods",27,Wholesale Trade
+106,621298480,44346,2006,"Merchant Wholesalers, Nondurable Goods",27,Wholesale Trade
+107,549847781,23654,2006,Wholesale Electronic Markets and Agents and Brokers,27,Wholesale Trade
+108,21913702,3364,2007,Crop Production,27,"Agriculture, Forestry, Fishing and Hunting"
+109,57125215,8255,2007,Animal Production and Aquaculture,27,"Agriculture, Forestry, Fishing and Hunting"
+110,9042996,947,2007,Forestry and Logging,27,"Agriculture, Forestry, Fishing and Hunting"
+111,405849,106,2007,"Fishing, Hunting and Trapping",27,"Agriculture, Forestry, Fishing and Hunting"
+112,11929896,1511,2007,Support Activities for Agriculture and Forestry,27,"Agriculture, Forestry, Fishing and Hunting"
+113,45766,null,2007,Oil and Gas Extraction,27,"Mining, Quarrying, and Oil and Gas Extraction"
+114,85213122,5055,2007,Mining (except Oil and Gas),27,"Mining, Quarrying, and Oil and Gas Extraction"
+115,900536,52,2007,Support Activities for Mining,27,"Mining, Quarrying, and Oil and Gas Extraction"
+116,280203499,12695,2007,Utilities,27,Utilities
+117,364659637,27149,2007,Construction of Buildings,27,Construction
+118,193504374,15192,2007,Heavy and Civil Engineering Construction,27,Construction
+119,800089594,69043,2007,Specialty Trade Contractors,27,Construction
+120,407601367,41385,2007,Food Manufacturing,27,Manufacturing
+121,28150263,2365,2007,Beverage and Tobacco Product Manufacturing,27,Manufacturing
+122,4610900,499,2007,Textile Mills,27,Manufacturing
+123,21645282,2734,2007,Textile Product Mills,27,Manufacturing
+124,6973506,977,2007,Apparel Manufacturing,27,Manufacturing
+125,12300521,1145,2007,Leather and Allied Product Manufacturing,27,Manufacturing
+126,207337155,15551,2007,Wood Product Manufacturing,27,Manufacturing
+127,180471559,12255,2007,Paper Manufacturing,27,Manufacturing
+128,379145222,32490,2007,Printing and Related Support Activities,27,Manufacturing
+129,56316594,2286,2007,Petroleum and Coal Products Manufacturing,27,Manufacturing
+130,200302943,10234,2007,Chemical Manufacturing,27,Manufacturing
+131,194070674,15916,2007,Plastics and Rubber Products Manufacturing,27,Manufacturing
+132,103348325,9831,2007,Nonmetallic Mineral Product Manufacturing,27,Manufacturing
+133,80378971,6588,2007,Primary Metal Manufacturing,27,Manufacturing
+134,560084992,44560,2007,Fabricated Metal Product Manufacturing,27,Manufacturing
+135,492178250,35004,2007,Machinery Manufacturing,27,Manufacturing
+136,1041837404,57688,2007,Computer and Electronic Product Manufacturing,27,Manufacturing
+137,126400999,8813,2007,"Electrical Equipment, Appliance, and Component Manufacturing",27,Manufacturing
+138,193228963,13423,2007,Transportation Equipment Manufacturing,27,Manufacturing
+139,132369971,12528,2007,Furniture and Related Product Manufacturing,27,Manufacturing
+140,360100580,23668,2007,Miscellaneous Manufacturing,27,Manufacturing
+141,1031076707,66464,2007,"Merchant Wholesalers, Durable Goods",27,Wholesale Trade
+142,622733437,43254,2007,"Merchant Wholesalers, Nondurable Goods",27,Wholesale Trade
+143,543607000,22717,2007,Wholesale Electronic Markets and Agents and Brokers,27,Wholesale Trade
+144,25086437,3548,2008,Crop Production,27,"Agriculture, Forestry, Fishing and Hunting"
+145,61492296,8598,2008,Animal Production and Aquaculture,27,"Agriculture, Forestry, Fishing and Hunting"
+146,11027003,1021,2008,Forestry and Logging,27,"Agriculture, Forestry, Fishing and Hunting"
+147,500207,123,2008,"Fishing, Hunting and Trapping",27,"Agriculture, Forestry, Fishing and Hunting"
+148,14309759,1658,2008,Support Activities for Agriculture and Forestry,27,"Agriculture, Forestry, Fishing and Hunting"
+149,444639,7,2008,Oil and Gas Extraction,27,"Mining, Quarrying, and Oil and Gas Extraction"
+150,77906622,4860,2008,Mining (except Oil and Gas),27,"Mining, Quarrying, and Oil and Gas Extraction"
+151,1544489,99,2008,Support Activities for Mining,27,"Mining, Quarrying, and Oil and Gas Extraction"
+152,304873979,10276,2008,Utilities,27,Utilities
+153,365428375,26359,2008,Construction of Buildings,27,Construction
+154,247859874,16910,2008,Heavy and Civil Engineering Construction,27,Construction
+155,762185624,65745,2008,Specialty Trade Contractors,27,Construction
+156,436580653,42579,2008,Food Manufacturing,27,Manufacturing
+157,29702572,2285,2008,Beverage and Tobacco Product Manufacturing,27,Manufacturing
+158,4062545,403,2008,Textile Mills,27,Manufacturing
+159,23269391,2819,2008,Textile Product Mills,27,Manufacturing
+160,7534373,977,2008,Apparel Manufacturing,27,Manufacturing
+161,12163119,1030,2008,Leather and Allied Product Manufacturing,27,Manufacturing
+162,165898424,14322,2008,Wood Product Manufacturing,27,Manufacturing
+163,181896322,12226,2008,Paper Manufacturing,27,Manufacturing
+164,352414818,30137,2008,Printing and Related Support Activities,27,Manufacturing
+165,65078848,2465,2008,Petroleum and Coal Products Manufacturing,27,Manufacturing
+166,195759594,10777,2008,Chemical Manufacturing,27,Manufacturing
+167,192746085,15362,2008,Plastics and Rubber Products Manufacturing,27,Manufacturing
+168,100286274,9558,2008,Nonmetallic Mineral Product Manufacturing,27,Manufacturing
+169,82994330,6743,2008,Primary Metal Manufacturing,27,Manufacturing
+170,553076925,43282,2008,Fabricated Metal Product Manufacturing,27,Manufacturing
+171,493124529,33614,2008,Machinery Manufacturing,27,Manufacturing
+172,1082873883,56306,2008,Computer and Electronic Product Manufacturing,27,Manufacturing
+173,142707041,9036,2008,"Electrical Equipment, Appliance, and Component Manufacturing",27,Manufacturing
+174,151299889,12694,2008,Transportation Equipment Manufacturing,27,Manufacturing
+175,112510643,10924,2008,Furniture and Related Product Manufacturing,27,Manufacturing
+176,271001545,19177,2008,Miscellaneous Manufacturing,27,Manufacturing
+177,1044651429,65460,2008,"Merchant Wholesalers, Durable Goods",27,Wholesale Trade
+178,866696355,44343,2008,"Merchant Wholesalers, Nondurable Goods",27,Wholesale Trade
+179,633566962,23496,2008,Wholesale Electronic Markets and Agents and Brokers,27,Wholesale Trade
+0,304829340,33895,2004,Motor Vehicle and Parts Dealers,27,Retail Trade
+1,84288387,11681,2004,Furniture and Home Furnishings Stores,27,Retail Trade
+2,95744895,9462,2004,Electronics and Appliance Stores,27,Retail Trade
+3,187325769,25877,2004,Building Material and Garden Equipment and Supplies Dealers,27,Retail Trade
+4,274993235,46771,2004,Food and Beverage Stores,27,Retail Trade
+5,95886106,13514,2004,Health and Personal Care Stores,27,Retail Trade
+6,103638477,22100,2004,Gasoline Stations,27,Retail Trade
+7,81624198,20028,2004,Clothing and Clothing Accessories Stores,27,Retail Trade
+8,55725110,14418,2004,"Sporting Goods, Hobby, Musical Instrument, and Book Stores",27,Retail Trade
+9,325022896,63863,2004,General Merchandise Stores,27,Retail Trade
+10,93132115,19576,2004,Miscellaneous Store Retailers,27,Retail Trade
+11,105130333,9810,2004,Nonstore Retailers,27,Retail Trade
+12,291044736,17470,2004,Air Transportation,27,Transportation and Warehousing
+13,2656841,215,2004,Water Transportation,27,Transportation and Warehousing
+14,198710070,21499,2004,Truck Transportation,27,Transportation and Warehousing
+15,103780742,17770,2004,Transit and Ground Passenger Transportation,27,Transportation and Warehousing
+16,8558556,424,2004,Pipeline Transportation,27,Transportation and Warehousing
+17,848157,211,2004,Scenic and Sightseeing Transportation,27,Transportation and Warehousing
+18,66088355,6206,2004,Support Activities for Transportation,27,Transportation and Warehousing
+19,77180007,10139,2004,Couriers and Messengers,27,Transportation and Warehousing
+20,76417265,5558,2004,Warehousing and Storage,27,Transportation and Warehousing
+21,377340737,25769,2004,Publishing Industries (except Internet),27,Information
+22,25937570,5457,2004,Motion Picture and Sound Recording Industries,27,Information
+23,68197366,5818,2004,Broadcasting (except Internet),27,Information
+24,253468678,17020,2004,Telecommunications,27,Information
+25,150095928,8895,2004,"Data Processing, Hosting, and Related Services",27,Information
+26,32222849,3823,2004,Other Information Services,27,Information
+27,8948,0,2004,Monetary Authorities-Central Bank,27,Finance and Insurance
+28,871235885,56582,2004,Credit Intermediation and Related Activities,27,Finance and Insurance
+29,891745874,20636,2004,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",27,Finance and Insurance
+30,1069076562,56102,2004,Insurance Carriers and Related Activities,27,Finance and Insurance
+31,56297889,2523,2004,"Funds, Trusts, and Other Financial Vehicles",27,Finance and Insurance
+32,299843180,28915,2004,Real Estate,27,Real Estate and Rental and Leasing
+33,83062645,9716,2004,Rental and Leasing Services,27,Real Estate and Rental and Leasing
+34,297896778,34157,2005,Motor Vehicle and Parts Dealers,27,Retail Trade
+35,79488994,11857,2005,Furniture and Home Furnishings Stores,27,Retail Trade
+36,76361263,10001,2005,Electronics and Appliance Stores,27,Retail Trade
+37,183552367,25371,2005,Building Material and Garden Equipment and Supplies Dealers,27,Retail Trade
+38,260773219,54385,2005,Food and Beverage Stores,27,Retail Trade
+39,103660061,15908,2005,Health and Personal Care Stores,27,Retail Trade
+40,100048625,24457,2005,Gasoline Stations,27,Retail Trade
+41,77477355,21276,2005,Clothing and Clothing Accessories Stores,27,Retail Trade
+42,52561426,14495,2005,"Sporting Goods, Hobby, Musical Instrument, and Book Stores",27,Retail Trade
+43,260208578,59538,2005,General Merchandise Stores,27,Retail Trade
+44,83115027,18394,2005,Miscellaneous Store Retailers,27,Retail Trade
+45,117804890,11577,2005,Nonstore Retailers,27,Retail Trade
+46,305285037,19577,2005,Air Transportation,27,Transportation and Warehousing
+47,3457198,277,2005,Water Transportation,27,Transportation and Warehousing
+48,206508331,21839,2005,Truck Transportation,27,Transportation and Warehousing
+49,103915687,17473,2005,Transit and Ground Passenger Transportation,27,Transportation and Warehousing
+50,7019244,346,2005,Pipeline Transportation,27,Transportation and Warehousing
+51,834273,225,2005,Scenic and Sightseeing Transportation,27,Transportation and Warehousing
+52,69901579,6432,2005,Support Activities for Transportation,27,Transportation and Warehousing
+53,74669458,9927,2005,Couriers and Messengers,27,Transportation and Warehousing
+54,74293321,7827,2005,Warehousing and Storage,27,Transportation and Warehousing
+55,374717268,25014,2005,Publishing Industries (except Internet),27,Information
+56,23437873,5330,2005,Motion Picture and Sound Recording Industries,27,Information
+57,58503685,4953,2005,Broadcasting (except Internet),27,Information
+58,240006233,16713,2005,Telecommunications,27,Information
+59,147547712,8523,2005,"Data Processing, Hosting, and Related Services",27,Information
+60,30050883,3728,2005,Other Information Services,27,Information
+61,116146,null,2005,Monetary Authorities-Central Bank,27,Finance and Insurance
+62,909983484,61181,2005,Credit Intermediation and Related Activities,27,Finance and Insurance
+63,943157254,21720,2005,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",27,Finance and Insurance
+64,1028236663,52888,2005,Insurance Carriers and Related Activities,27,Finance and Insurance
+65,87245286,4060,2005,"Funds, Trusts, and Other Financial Vehicles",27,Finance and Insurance
+66,255271762,27032,2005,Real Estate,27,Real Estate and Rental and Leasing
+67,82565975,9591,2005,Rental and Leasing Services,27,Real Estate and Rental and Leasing
+68,315758704,32608,2006,Motor Vehicle and Parts Dealers,27,Retail Trade
+69,93358310,11831,2006,Furniture and Home Furnishings Stores,27,Retail Trade
+70,117009291,11294,2006,Electronics and Appliance Stores,27,Retail Trade
+71,197895861,26541,2006,Building Material and Garden Equipment and Supplies Dealers,27,Retail Trade
+72,319683635,57345,2006,Food and Beverage Stores,27,Retail Trade
+73,123575044,16374,2006,Health and Personal Care Stores,27,Retail Trade
+74,99313860,23454,2006,Gasoline Stations,27,Retail Trade
+75,86958444,21963,2006,Clothing and Clothing Accessories Stores,27,Retail Trade
+76,59766870,14520,2006,"Sporting Goods, Hobby, Musical Instrument, and Book Stores",27,Retail Trade
+77,281599280,63824,2006,General Merchandise Stores,27,Retail Trade
+78,92838486,18147,2006,Miscellaneous Store Retailers,27,Retail Trade
+79,131981837,10303,2006,Nonstore Retailers,27,Retail Trade
+80,214614252,16787,2006,Air Transportation,27,Transportation and Warehousing
+81,3171820,259,2006,Water Transportation,27,Transportation and Warehousing
+82,245745281,23292,2006,Truck Transportation,27,Transportation and Warehousing
+83,115691868,18404,2006,Transit and Ground Passenger Transportation,27,Transportation and Warehousing
+84,9652444,391,2006,Pipeline Transportation,27,Transportation and Warehousing
+85,792731,184,2006,Scenic and Sightseeing Transportation,27,Transportation and Warehousing
+86,74400542,5904,2006,Support Activities for Transportation,27,Transportation and Warehousing
+87,49177,0,2006,Postal Service,27,Transportation and Warehousing
+88,84131727,10299,2006,Couriers and Messengers,27,Transportation and Warehousing
+89,60239809,5722,2006,Warehousing and Storage,27,Transportation and Warehousing
+90,404203768,25024,2006,Publishing Industries (except Internet),27,Information
+91,24325385,5005,2006,Motion Picture and Sound Recording Industries,27,Information
+92,55627693,4847,2006,Broadcasting (except Internet),27,Information
+93,317914439,15311,2006,Telecommunications,27,Information
+94,133950555,7739,2006,"Data Processing, Hosting, and Related Services",27,Information
+95,34865401,3520,2006,Other Information Services,27,Information
+96,21451697,18,2006,Monetary Authorities-Central Bank,27,Finance and Insurance
+97,1004970680,61882,2006,Credit Intermediation and Related Activities,27,Finance and Insurance
+98,1053404813,21853,2006,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",27,Finance and Insurance
+99,1258005808,53075,2006,Insurance Carriers and Related Activities,27,Finance and Insurance
+100,71403421,3059,2006,"Funds, Trusts, and Other Financial Vehicles",27,Finance and Insurance
+101,288268829,27236,2006,Real Estate,27,Real Estate and Rental and Leasing
+102,98104833,9270,2006,Rental and Leasing Services,27,Real Estate and Rental and Leasing
+103,303077160,32398,2007,Motor Vehicle and Parts Dealers,27,Retail Trade
+104,82636620,11510,2007,Furniture and Home Furnishings Stores,27,Retail Trade
+105,85401164,9586,2007,Electronics and Appliance Stores,27,Retail Trade
+106,186174103,25244,2007,Building Material and Garden Equipment and Supplies Dealers,27,Retail Trade
+107,316598172,55987,2007,Food and Beverage Stores,27,Retail Trade
+108,130518820,16816,2007,Health and Personal Care Stores,27,Retail Trade
+109,93502838,22975,2007,Gasoline Stations,27,Retail Trade
+110,89110892,22345,2007,Clothing and Clothing Accessories Stores,27,Retail Trade
+111,54354085,14250,2007,"Sporting Goods, Hobby, Musical Instrument, and Book Stores",27,Retail Trade
+112,281909090,62886,2007,General Merchandise Stores,27,Retail Trade
+113,90008786,17657,2007,Miscellaneous Store Retailers,27,Retail Trade
+114,113512933,9700,2007,Nonstore Retailers,27,Retail Trade
+115,217978596,14939,2007,Air Transportation,27,Transportation and Warehousing
+116,104425,null,2007,Rail Transportation,27,Transportation and Warehousing
+117,3159100,257,2007,Water Transportation,27,Transportation and Warehousing
+118,243094471,23256,2007,Truck Transportation,27,Transportation and Warehousing
+119,114866957,18368,2007,Transit and Ground Passenger Transportation,27,Transportation and Warehousing
+120,7724967,342,2007,Pipeline Transportation,27,Transportation and Warehousing
+121,768318,189,2007,Scenic and Sightseeing Transportation,27,Transportation and Warehousing
+122,81503936,6326,2007,Support Activities for Transportation,27,Transportation and Warehousing
+123,119536,15,2007,Postal Service,27,Transportation and Warehousing
+124,81894040,9917,2007,Couriers and Messengers,27,Transportation and Warehousing
+125,57841554,5810,2007,Warehousing and Storage,27,Transportation and Warehousing
+126,405729085,24547,2007,Publishing Industries (except Internet),27,Information
+127,21878666,4751,2007,Motion Picture and Sound Recording Industries,27,Information
+128,67251383,5355,2007,Broadcasting (except Internet),27,Information
+129,240626942,14749,2007,Telecommunications,27,Information
+130,156365832,5311,2007,"Data Processing, Hosting, and Related Services",27,Information
+131,37342787,3705,2007,Other Information Services,27,Information
+132,26221582,1581,2007,Monetary Authorities-Central Bank,27,Finance and Insurance
+133,902622348,55260,2007,Credit Intermediation and Related Activities,27,Finance and Insurance
+134,1140060752,19815,2007,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",27,Finance and Insurance
+135,1360541871,56643,2007,Insurance Carriers and Related Activities,27,Finance and Insurance
+136,32570030,1814,2007,"Funds, Trusts, and Other Financial Vehicles",27,Finance and Insurance
+137,421979477,30782,2007,Real Estate,27,Real Estate and Rental and Leasing
+138,86452445,8819,2007,Rental and Leasing Services,27,Real Estate and Rental and Leasing
+139,297228851,31599,2008,Motor Vehicle and Parts Dealers,27,Retail Trade
+140,77043365,10852,2008,Furniture and Home Furnishings Stores,27,Retail Trade
+141,87028884,9509,2008,Electronics and Appliance Stores,27,Retail Trade
+142,172367955,23786,2008,Building Material and Garden Equipment and Supplies Dealers,27,Retail Trade
+143,242991813,47276,2008,Food and Beverage Stores,27,Retail Trade
+144,132954764,17407,2008,Health and Personal Care Stores,27,Retail Trade
+145,99639998,24085,2008,Gasoline Stations,27,Retail Trade
+146,88702287,23260,2008,Clothing and Clothing Accessories Stores,27,Retail Trade
+147,51119399,13671,2008,"Sporting Goods, Hobby, Musical Instrument, and Book Stores",27,Retail Trade
+148,288469217,64560,2008,General Merchandise Stores,27,Retail Trade
+149,87773357,17045,2008,Miscellaneous Store Retailers,27,Retail Trade
+150,108791583,9845,2008,Nonstore Retailers,27,Retail Trade
+151,261824836,15280,2008,Air Transportation,27,Transportation and Warehousing
+152,222211,null,2008,Rail Transportation,27,Transportation and Warehousing
+153,3472095,275,2008,Water Transportation,27,Transportation and Warehousing
+154,251182301,24323,2008,Truck Transportation,27,Transportation and Warehousing
+155,113060038,18684,2008,Transit and Ground Passenger Transportation,27,Transportation and Warehousing
+156,9912853,362,2008,Pipeline Transportation,27,Transportation and Warehousing
+157,424990,107,2008,Scenic and Sightseeing Transportation,27,Transportation and Warehousing
+158,74385426,5968,2008,Support Activities for Transportation,27,Transportation and Warehousing
+159,45153,null,2008,Postal Service,27,Transportation and Warehousing
+160,82999167,9854,2008,Couriers and Messengers,27,Transportation and Warehousing
+161,58077833,5576,2008,Warehousing and Storage,27,Transportation and Warehousing
+162,418005877,24013,2008,Publishing Industries (except Internet),27,Information
+163,21994979,4633,2008,Motion Picture and Sound Recording Industries,27,Information
+164,59498969,5060,2008,Broadcasting (except Internet),27,Information
+165,272329524,16350,2008,Telecommunications,27,Information
+166,110162052,6821,2008,"Data Processing, Hosting, and Related Services",27,Information
+167,49249002,4238,2008,Other Information Services,27,Information
+168,21837065,1429,2008,Monetary Authorities-Central Bank,27,Finance and Insurance
+169,855841980,52512,2008,Credit Intermediation and Related Activities,27,Finance and Insurance
+170,820257724,18850,2008,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",27,Finance and Insurance
+171,1446849065,59014,2008,Insurance Carriers and Related Activities,27,Finance and Insurance
+172,24172636,1253,2008,"Funds, Trusts, and Other Financial Vehicles",27,Finance and Insurance
+173,425121187,31664,2008,Real Estate,27,Real Estate and Rental and Leasing
+174,84358689,8372,2008,Rental and Leasing Services,27,Real Estate and Rental and Leasing
+0,17788994,1049,2004,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),27,Real Estate and Rental and Leasing
+1,1731125646,115768,2004,"Professional, Scientific, and Technical Services",27,"Professional, Scientific, and Technical Services"
+2,1333169020,66606,2004,Management of Companies and Enterprises,27,Management of Companies and Enterprises
+3,732089257,103303,2004,Administrative and Support Services,27,"Administrative, Support, Waste Management, and Remediation"
+4,59530541,5663,2004,Waste Management and Remediation Services,27,"Administrative, Support, Waste Management, and Remediation"
+5,1888097359,208029,2004,Educational Services,27,Educational Services
+6,1326671049,104315,2004,Ambulatory Health Care Services,27,Health Care and Social Assistance
+7,947245567,93823,2004,Hospitals,27,Health Care and Social Assistance
+8,501266774,91458,2004,Nursing and Residential Care Facilities,27,Health Care and Social Assistance
+9,289368287,52923,2004,Social Assistance,27,Health Care and Social Assistance
+10,100767212,6934,2004,"Performing Arts, Spectator Sports, and Related Industries",27,"Arts, Entertainment, and Recreation"
+11,22620867,3282,2004,"Museums, Historical Sites, and Similar Institutions",27,"Arts, Entertainment, and Recreation"
+12,128480027,30780,2004,"Amusement, Gambling, and Recreation Industries",27,"Arts, Entertainment, and Recreation"
+13,133658320,28745,2004,Accommodation,27,Accommodation and Food Services
+14,515199185,158519,2004,Food Services and Drinking Places,27,Accommodation and Food Services
+15,194460572,23219,2004,Repair and Maintenance,27,Other Services (except Public Administration)
+16,153382159,27452,2004,Personal and Laundry Services,27,Other Services (except Public Administration)
+17,178253671,34355,2004,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",27,Other Services (except Public Administration)
+18,11558725,2154,2004,Private Households,27,Other Services (except Public Administration)
+19,527687216,58125,2004,"Executive, Legislative, and Other General Government Support",27,Public Administration
+20,215398323,18127,2004,"Justice, Public Order, and Safety Activities",27,Public Administration
+21,154251466,13917,2004,Administration of Human Resource Programs,27,Public Administration
+22,58951382,6090,2004,Administration of Environmental Quality Programs,27,Public Administration
+23,19354718,1793,2004,"Administration of Housing Programs, Urban Planning, and Community Development",27,Public Administration
+24,53670057,4738,2004,Administration of Economic Programs,27,Public Administration
+25,2635141,283,2004,National Security and International Affairs,27,Public Administration
+26,16983696,972,2005,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),27,Real Estate and Rental and Leasing
+27,1808466904,117251,2005,"Professional, Scientific, and Technical Services",27,"Professional, Scientific, and Technical Services"
+28,1483947688,68122,2005,Management of Companies and Enterprises,27,Management of Companies and Enterprises
+29,737896980,109032,2005,Administrative and Support Services,27,"Administrative, Support, Waste Management, and Remediation"
+30,56606006,5467,2005,Waste Management and Remediation Services,27,"Administrative, Support, Waste Management, and Remediation"
+31,1899894344,209220,2005,Educational Services,27,Educational Services
+32,1391514640,103387,2005,Ambulatory Health Care Services,27,Health Care and Social Assistance
+33,973872684,79991,2005,Hospitals,27,Health Care and Social Assistance
+34,487705815,93311,2005,Nursing and Residential Care Facilities,27,Health Care and Social Assistance
+35,292900238,55932,2005,Social Assistance,27,Health Care and Social Assistance
+36,99959728,6683,2005,"Performing Arts, Spectator Sports, and Related Industries",27,"Arts, Entertainment, and Recreation"
+37,23037757,3318,2005,"Museums, Historical Sites, and Similar Institutions",27,"Arts, Entertainment, and Recreation"
+38,134176338,31385,2005,"Amusement, Gambling, and Recreation Industries",27,"Arts, Entertainment, and Recreation"
+39,133353761,28784,2005,Accommodation,27,Accommodation and Food Services
+40,505456418,167095,2005,Food Services and Drinking Places,27,Accommodation and Food Services
+41,181907681,21961,2005,Repair and Maintenance,27,Other Services (except Public Administration)
+42,153218264,28462,2005,Personal and Laundry Services,27,Other Services (except Public Administration)
+43,178381453,33865,2005,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",27,Other Services (except Public Administration)
+44,12214890,2398,2005,Private Households,27,Other Services (except Public Administration)
+45,513958615,58528,2005,"Executive, Legislative, and Other General Government Support",27,Public Administration
+46,217411481,18532,2005,"Justice, Public Order, and Safety Activities",27,Public Administration
+47,152410788,14187,2005,Administration of Human Resource Programs,27,Public Administration
+48,54701773,5672,2005,Administration of Environmental Quality Programs,27,Public Administration
+49,17010847,1626,2005,"Administration of Housing Programs, Urban Planning, and Community Development",27,Public Administration
+50,57518336,4879,2005,Administration of Economic Programs,27,Public Administration
+51,2788894,292,2005,National Security and International Affairs,27,Public Administration
+52,28424358,1006,2006,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),27,Real Estate and Rental and Leasing
+53,2113868669,121081,2006,"Professional, Scientific, and Technical Services",27,"Professional, Scientific, and Technical Services"
+54,1544565415,71966,2006,Management of Companies and Enterprises,27,Management of Companies and Enterprises
+55,852790167,118468,2006,Administrative and Support Services,27,"Administrative, Support, Waste Management, and Remediation"
+56,64833769,5876,2006,Waste Management and Remediation Services,27,"Administrative, Support, Waste Management, and Remediation"
+57,2222218162,226019,2006,Educational Services,27,Educational Services
+58,1648969490,115566,2006,Ambulatory Health Care Services,27,Health Care and Social Assistance
+59,1228795681,96843,2006,Hospitals,27,Health Care and Social Assistance
+60,546555087,94806,2006,Nursing and Residential Care Facilities,27,Health Care and Social Assistance
+61,338048286,61613,2006,Social Assistance,27,Health Care and Social Assistance
+62,152281373,6314,2006,"Performing Arts, Spectator Sports, and Related Industries",27,"Arts, Entertainment, and Recreation"
+63,34582860,3839,2006,"Museums, Historical Sites, and Similar Institutions",27,"Arts, Entertainment, and Recreation"
+64,134768614,31208,2006,"Amusement, Gambling, and Recreation Industries",27,"Arts, Entertainment, and Recreation"
+65,155109764,28714,2006,Accommodation,27,Accommodation and Food Services
+66,585288181,167876,2006,Food Services and Drinking Places,27,Accommodation and Food Services
+67,198368503,20925,2006,Repair and Maintenance,27,Other Services (except Public Administration)
+68,167017125,27349,2006,Personal and Laundry Services,27,Other Services (except Public Administration)
+69,202558315,34411,2006,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",27,Other Services (except Public Administration)
+70,13159327,2129,2006,Private Households,27,Other Services (except Public Administration)
+71,824967325,60590,2006,"Executive, Legislative, and Other General Government Support",27,Public Administration
+72,273728199,21262,2006,"Justice, Public Order, and Safety Activities",27,Public Administration
+73,185319596,14120,2006,Administration of Human Resource Programs,27,Public Administration
+74,62014539,4998,2006,Administration of Environmental Quality Programs,27,Public Administration
+75,23666530,1988,2006,"Administration of Housing Programs, Urban Planning, and Community Development",27,Public Administration
+76,66355451,5037,2006,Administration of Economic Programs,27,Public Administration
+77,3357416,305,2006,National Security and International Affairs,27,Public Administration
+78,24567055,1216,2007,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),27,Real Estate and Rental and Leasing
+79,2282454517,128412,2007,"Professional, Scientific, and Technical Services",27,"Professional, Scientific, and Technical Services"
+80,1553046164,71252,2007,Management of Companies and Enterprises,27,Management of Companies and Enterprises
+81,864356003,116261,2007,Administrative and Support Services,27,"Administrative, Support, Waste Management, and Remediation"
+82,60360333,5488,2007,Waste Management and Remediation Services,27,"Administrative, Support, Waste Management, and Remediation"
+83,2202718129,223899,2007,Educational Services,27,Educational Services
+84,1689545435,116597,2007,Ambulatory Health Care Services,27,Health Care and Social Assistance
+85,1275774008,104612,2007,Hospitals,27,Health Care and Social Assistance
+86,542122597,96215,2007,Nursing and Residential Care Facilities,27,Health Care and Social Assistance
+87,348702590,63436,2007,Social Assistance,27,Health Care and Social Assistance
+88,156785763,6607,2007,"Performing Arts, Spectator Sports, and Related Industries",27,"Arts, Entertainment, and Recreation"
+89,31925344,3903,2007,"Museums, Historical Sites, and Similar Institutions",27,"Arts, Entertainment, and Recreation"
+90,132111249,29605,2007,"Amusement, Gambling, and Recreation Industries",27,"Arts, Entertainment, and Recreation"
+91,155731800,29676,2007,Accommodation,27,Accommodation and Food Services
+92,571418035,167592,2007,Food Services and Drinking Places,27,Accommodation and Food Services
+93,176216985,20076,2007,Repair and Maintenance,27,Other Services (except Public Administration)
+94,164173727,28459,2007,Personal and Laundry Services,27,Other Services (except Public Administration)
+95,199074078,33472,2007,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",27,Other Services (except Public Administration)
+96,12881544,2193,2007,Private Households,27,Other Services (except Public Administration)
+97,593723431,60517,2007,"Executive, Legislative, and Other General Government Support",27,Public Administration
+98,259233515,19999,2007,"Justice, Public Order, and Safety Activities",27,Public Administration
+99,186513380,14203,2007,Administration of Human Resource Programs,27,Public Administration
+100,62472289,5075,2007,Administration of Environmental Quality Programs,27,Public Administration
+101,24340968,1921,2007,"Administration of Housing Programs, Urban Planning, and Community Development",27,Public Administration
+102,62912536,4713,2007,Administration of Economic Programs,27,Public Administration
+103,3502235,300,2007,National Security and International Affairs,27,Public Administration
+104,27584325,1276,2008,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),27,Real Estate and Rental and Leasing
+105,2406722120,132461,2008,"Professional, Scientific, and Technical Services",27,"Professional, Scientific, and Technical Services"
+106,2273786141,83929,2008,Management of Companies and Enterprises,27,Management of Companies and Enterprises
+107,907965857,116961,2008,Administrative and Support Services,27,"Administrative, Support, Waste Management, and Remediation"
+108,70388712,6262,2008,Waste Management and Remediation Services,27,"Administrative, Support, Waste Management, and Remediation"
+109,2361581262,229712,2008,Educational Services,27,Educational Services
+110,1703694078,118459,2008,Ambulatory Health Care Services,27,Health Care and Social Assistance
+111,1377989730,102141,2008,Hospitals,27,Health Care and Social Assistance
+112,579495270,101037,2008,Nursing and Residential Care Facilities,27,Health Care and Social Assistance
+113,367503679,66897,2008,Social Assistance,27,Health Care and Social Assistance
+114,132428451,6684,2008,"Performing Arts, Spectator Sports, and Related Industries",27,"Arts, Entertainment, and Recreation"
+115,31696387,3937,2008,"Museums, Historical Sites, and Similar Institutions",27,"Arts, Entertainment, and Recreation"
+116,134408169,31383,2008,"Amusement, Gambling, and Recreation Industries",27,"Arts, Entertainment, and Recreation"
+117,158330895,29682,2008,Accommodation,27,Accommodation and Food Services
+118,589606633,171913,2008,Food Services and Drinking Places,27,Accommodation and Food Services
+119,182403901,20492,2008,Repair and Maintenance,27,Other Services (except Public Administration)
+120,164700982,28085,2008,Personal and Laundry Services,27,Other Services (except Public Administration)
+121,206784169,33563,2008,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",27,Other Services (except Public Administration)
+122,14136667,2572,2008,Private Households,27,Other Services (except Public Administration)
+123,613703842,60762,2008,"Executive, Legislative, and Other General Government Support",27,Public Administration
+124,265214394,19761,2008,"Justice, Public Order, and Safety Activities",27,Public Administration
+125,197263158,15150,2008,Administration of Human Resource Programs,27,Public Administration
+126,95094506,6396,2008,Administration of Environmental Quality Programs,27,Public Administration
+127,23519355,1957,2008,"Administration of Housing Programs, Urban Planning, and Community Development",27,Public Administration
+128,63668835,4588,2008,Administration of Economic Programs,27,Public Administration
+129,3578928,301,2008,National Security and International Affairs,27,Public Administration
